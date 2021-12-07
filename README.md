@@ -8,5 +8,5 @@
   <a href="https://www.linkedin.com/in/gustavo-h-migliorini-87a00b35" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.researchgate.net/profile/Gustavo-H-Migliorini" target="_blank"><img src="https://img.shields.io/badge/-researchgate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" target="_blank"></a>
 </div>
-  
-![](https://komarev.com/ghpvc/?username=ghmigliorini&color=brightgreen)
+
+![](https://komarev.com/ghpvc/?username=ghmigliorini)

@@ -9,4 +9,4 @@
   <a href="https://www.researchgate.net/profile/Gustavo-H-Migliorini" target="_blank"><img src="https://img.shields.io/badge/-researchgate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" target="_blank"></a>
 </div>
   
-![](https://komarev.com/ghpvc/?username=ghmigliorini)
+![](https://komarev.com/ghpvc/?username=ghmigliorini&color=brightgreen)
